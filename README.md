@@ -17,8 +17,9 @@ I'm Indian Developer 👨‍💻 and currently doing multi-tasking...⌨️
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pratap-parui-mr-sumbuddy/) &nbsp; 
 [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mr_sumbuddy/) &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/pinterest.png" width="3.5%"/>](https://in.pinterest.com/pratapparui/) &nbsp; 
-[<img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="3.5%"/>](https://www.youtube.com/channel/UCysg1ppjxHOu2Gdydb7o9Ag) &nbsp; 
 [<img src="https://img.icons8.com/plumpy/48/000000/medium-logo.png" width="3.5%"/>](https://medium.com/@Parui_Pratap)&nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="3.5%"/>](https://www.youtube.com/channel/UCysg1ppjxHOu2Gdydb7o9Ag) &nbsp; 
+
 &nbsp; 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pratap360&style=flat-square)
