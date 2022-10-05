@@ -7,7 +7,8 @@ Frontend Developer | Graphic Designer | Blogger
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Mr Parui Web](http://www.mrparuiweb)
 * ✉️  You can contact me at [mrparuiweb-admin.dt7dq@simplelogin.co](mailto:mrparuiweb-admin.dt7dq@simplelogin.co)
-* 🚀  I'm currently working on [My Toolkits](http://pratap360.github.io/My_toolskit_PWA/)
+* 🚀  I'm currently working on Hacktober fest and open sources projects
+<!--🚀  I'm currently working on [My Toolkits](http://pratap360.github.io/My_toolskit_PWA/)-->
 * 🧠  I'm learning React JS
 
 <a href="https://www.twitter.com/parui_pratap" target="_blank" rel="noreferrer"><img
