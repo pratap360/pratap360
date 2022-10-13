@@ -19,6 +19,7 @@ Frontend Developer | Graphic Designer | Blogger
 src="https://img.shields.io/twitter/follow/parui_pratap?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/pratap360" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pratap360?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://pratapparui.bio.link/"><img src="https://img.shields.io/badge/SOCIAL-Pratap Parui.bio.link-lightgrey/?style=for-the-badge&color=0891b2"></a>
 
 ### Skills
 
@@ -61,6 +62,7 @@ src="https://img.shields.io/github/followers/pratap360?logo=github&style=for-the
 
 <p align="left"> <a href="https://www.dev.to/mrparuiweb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/984810842941964298" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/pratap360" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://mrparuiwebon.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mr_sumbuddy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pratap-parui-mr-sumbuddy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@Parui_Pratap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://unique134.blogpsot.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/parui_pratap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCysg1ppjxHOu2Gdydb7o9Ag" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -81,8 +83,6 @@ src="https://img.shields.io/github/followers/pratap360?logo=github&style=for-the
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pratap360&icon=3&color=0)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=pratap360&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ### Support Me
 
