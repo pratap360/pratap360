@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pratap Parui
 ====================================================================================================================================
 
-[![@pratap360's Holopin board](https://holopin.me/pratap360)](https://holopin.io/@pratap360)
-
-
 Frontend Developer | Graphic Designer | Blogger
 -----------------------------------------------
 
@@ -73,7 +70,23 @@ src="https://img.shields.io/github/followers/pratap360?logo=github&style=for-the
 [![Discord](https://discord.c99.nl/widget/theme-2/866326202503397386.png)](https://discordapp.com/users/mr_sumbuddy#9178)
 
 
-### Badges
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
+<details><summary> <h3> 🎖️ Hactoberfest badges </h3></summary>
+
+----
+	
+[![@pratap360's Holopin board](https://holopin.me/pratap360)](https://holopin.io/@pratap360)
+	
+</details>
+
+
+
+
 
 <b>My GitHub Stats</b>
 
@@ -84,15 +97,12 @@ src="https://img.shields.io/github/followers/pratap360?logo=github&style=for-the
 <a href="http://www.github.com/pratap360"><img src="https://activity-graph.herokuapp.com/graph?username=pratap360&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/pratap360" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratap360&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<!-- ### 😂 Random Dev Meme-->
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=pratap360&icon=3&color=0)](https://visitcount.itsvg.in)
 
 ### Support Me
