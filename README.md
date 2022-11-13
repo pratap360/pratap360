@@ -72,11 +72,11 @@ src="https://img.shields.io/github/followers/pratap360?logo=github&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [All About Hacktober Fest 2022 You Need To Know](https://dev.to/pratap360/all-about-hacktober-fest-2022-you-need-to-know-375m)
 - [All You Need To Know About Hacktober Fest 2022.](https://medium.com/@Parui_Pratap/all-you-need-to-know-about-hacktober-fest-2022-41d29ef4d077?source=rss-e70db2d95398------2)
 - [All About Hacktober Fest You Need To Know As A Beginner -  Mr Parui web](https://www.mrparuiweb.dev/2022/10/all-about-hacktober-fest-you-need-to-know.html)
 - [Best Free Open Source Apps on Android — Mr Parui Web](https://www.mrparuiweb.dev/2022/08/best-free-open-source-apps-on-android.html)
 - [Best Free Open Source Apps on Android — Unique Imagination](https://medium.com/@Parui_Pratap/best-free-open-source-apps-on-android-unique-imagination-c65e04c93682?source=rss-e70db2d95398------2)
-- [Run Python in the Browser! | PyScript tutorial - mr parui web](https://www.mrparuiweb.dev/2022/07/pyscript-python-front-end-framework.html)
 <!-- BLOG-POST-LIST:END -->
 
 
