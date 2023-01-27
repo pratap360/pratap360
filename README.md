@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pratap Parui
+Namaskar! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pratap Parui
 ====================================================================================================================================
 
 Frontend Developer | Graphic Designer | Blogger
@@ -8,7 +8,7 @@ Frontend Developer | Graphic Designer | Blogger
 * 🖥️  See my Blog Website realted to programming stuffs at [Mr Parui Web](http://www.mrparuiweb)
 * ✉️  You can contact me at [mrparuiweb-admin.dt7dq@simplelogin.co](mailto:mrparuiweb-admin.dt7dq@simplelogin.co)
 * 🚀  I'm currently working on Hacktober fest and open sources projects
-* 🧠  I'm learning React JS
+* 🧠  I'm learning UI-UX Concepts & backend such as mondgo db , appwrite & docker
 
 <!--🚀  I'm currently working on [My Toolkits](http://pratap360.github.io/My_toolskit_PWA/)-->
 
