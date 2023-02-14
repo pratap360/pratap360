@@ -75,8 +75,8 @@ src="https://img.shields.io/github/followers/pratap360?logo=github&style=for-the
 - [Python Crash Course by Eric Matthews book Review](https://www.mrparuiweb.dev/2023/01/python-crash-course-by-eric-matthews-edition-two-.html)
 - [Bootstrap 5 List group constructor&lpar;&rpar; Method](https://www.mrparuiweb.dev/2023/01/bootstrap-5-list-group-constructor.html)
 - [All About Hacktober Fest 2022 You Need To Know](https://dev.to/pratap360/all-about-hacktober-fest-2022-you-need-to-know-375m)
+- [All You Need To Know About Hacktober Fest 2022.](https://medium.com/@Parui_Pratap/all-you-need-to-know-about-hacktober-fest-2022-41d29ef4d077?source=rss-e70db2d95398------2)
 - [All About Hacktober Fest You Need To Know As A Beginner -  Mr Parui web](https://www.mrparuiweb.dev/2022/10/all-about-hacktober-fest-you-need-to-know.html)
-- [Best Free Open Source Apps on Android — Mr Parui Web](https://www.mrparuiweb.dev/2022/08/best-free-open-source-apps-on-android.html)
 <!-- BLOG-POST-LIST:END -->
 
 
