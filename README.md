@@ -72,11 +72,11 @@ src="https://img.shields.io/github/followers/pratap360?logo=github&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vue.js css transitions](https://www.mrparuiweb.dev/2023/03/vuejs-css-transitions.html)
 - [Fit Streak | A Case Study On Fitness App](https://medium.com/@Parui_Pratap/fit-streak-a-case-study-on-fitness-app-756ade5e45d0?source=rss-e70db2d95398------2)
 - [Fitstreak | A Case Study On Fitness App](https://www.mrparuiweb.dev/2023/02/ui-ux-case-study-on-fitstreak-fitness-app.html)
 - [Python Crash Course by Eric Matthews book Review](https://www.mrparuiweb.dev/2023/01/python-crash-course-by-eric-matthews-edition-two-.html)
 - [Bootstrap 5 List group constructor&lpar;&rpar; Method](https://medium.com/@Parui_Pratap/bootstrap-5-list-group-constructor-method-5fb425e5ea7a?source=rss-e70db2d95398------2)
-- [Bootstrap 5 List group constructor&lpar;&rpar; Method](https://www.mrparuiweb.dev/2023/01/bootstrap-5-list-group-constructor.html)
 <!-- BLOG-POST-LIST:END -->
 
 
