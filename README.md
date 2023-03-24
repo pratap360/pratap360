@@ -72,7 +72,7 @@ src="https://img.shields.io/github/followers/pratap360?logo=github&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to create a Progressive Web Apps &lpar;PWA&rpar; using Materialize Css](https://www.mrparuiweb.dev/2023/03/how-to-create-progressive-web-apps-pwa.html)
+- [How to create a Progressive Web Apps &lpar;PWA&rpar; using HTML, Materialize CSS, and JavaScript: A Complete Guide](https://www.mrparuiweb.dev/2023/03/how-to-create-progressive-web-apps-pwa.html)
 - [Materialize  CSS A beginner friendly frontend framework !](https://www.mrparuiweb.dev/2023/03/materialize-css-beginner-friendly-tutorial.html)
 - [Vue.js css transitions](https://www.mrparuiweb.dev/2023/03/vuejs-css-transitions.html)
 - [Fit Streak | A Case Study On Fitness App](https://medium.com/@Parui_Pratap/fit-streak-a-case-study-on-fitness-app-756ade5e45d0?source=rss-e70db2d95398------2)
