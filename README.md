@@ -72,7 +72,7 @@ src="https://img.shields.io/github/followers/pratap360?logo=github&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [8 Chrome Extensions That Will 4x Your Productivity](https://medium.com/@Parui_Pratap/8-chrome-extensions-that-will-4x-your-productivity-10d43d59859d?source=rss-e70db2d95398------2)
+- [Top 8 Browsers Extensions That Will 4x Your Productivity](https://medium.com/@Parui_Pratap/8-chrome-extensions-that-will-4x-your-productivity-10d43d59859d?source=rss-e70db2d95398------2)
 - [How to create a Progressive Web Apps &lpar;PWA&rpar; using HTML, Materialize CSS, and JavaScript: A Complete Guide](https://www.mrparuiweb.dev/2023/03/how-to-create-progressive-web-apps-pwa.html)
 - [Materialize  CSS A beginner friendly frontend framework !](https://www.mrparuiweb.dev/2023/03/materialize-css-beginner-friendly-tutorial.html)
 - [Vue.js css transitions](https://www.mrparuiweb.dev/2023/03/vuejs-css-transitions.html)
