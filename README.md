@@ -7,8 +7,8 @@ Frontend Developer | Graphic Designer | Blogger
 * 🌍  I'm based in India
 * 🖥️  See my Blog Website realted to programming stuffs at [Mr Parui Web](http://www.mrparuiweb)
 * ✉️  You can contact me at [mrparuiweb-admin.dt7dq@simplelogin.co](mailto:mrparuiweb-admin.dt7dq@simplelogin.co)
-* 🚀  I'm currently working on Hacktober fest and open sources projects
-* 🧠  I'm learning UI-UX Concepts & backend such as mondgo db , appwrite & docker
+* 🚀  I'm currently working my some personal projects , my portfolio as well as paticipated into [refine hackathon 2](https://hackathon.refine.dev/ticket/pratap360)
+* 🧠  I'm learning Java , sql , as well as mastering React and Material UI with Supabase 😉✌
 
 <!--🚀  I'm currently working on [My Toolkits](http://pratap360.github.io/My_toolskit_PWA/)-->
 
