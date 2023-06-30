@@ -74,9 +74,9 @@ src="https://img.shields.io/github/followers/pratap360?logo=github&style=for-the
 <!-- BLOG-POST-LIST:START -->
 - [Top 10 Awesome Frontend Developer Tools that You’re missing out](https://medium.com/@Parui_Pratap/top-10-awesome-frontend-developer-tools-that-youre-missing-out-e328865c7f5a?source=rss-e70db2d95398------2)
 - [Top 8 Browsers Extensions That Will 4x Your Productivity](https://medium.com/@Parui_Pratap/8-chrome-extensions-that-will-4x-your-productivity-10d43d59859d?source=rss-e70db2d95398------2)
-- [How to create a Progressive Web Apps &lpar;PWA&rpar; using HTML, Materialize CSS, and JavaScript: A Complete Guide](https://www.mrparuiweb.dev/2023/03/how-to-create-progressive-web-apps-pwa.html)
-- [Materialize  CSS A beginner friendly frontend framework !](https://www.mrparuiweb.dev/2023/03/materialize-css-beginner-friendly-tutorial.html)
-- [Vue.js css transitions](https://www.mrparuiweb.dev/2023/03/vuejs-css-transitions.html)
+- [Fit Streak | A Case Study On Fitness App](https://medium.com/@Parui_Pratap/fit-streak-a-case-study-on-fitness-app-756ade5e45d0?source=rss-e70db2d95398------2)
+- [All About Hacktober Fest 2022 You Need To Know](https://dev.to/pratap360/all-about-hacktober-fest-2022-you-need-to-know-375m)
+- [All You Need To Know About Hacktober Fest 2022.](https://medium.com/@Parui_Pratap/all-you-need-to-know-about-hacktober-fest-2022-41d29ef4d077?source=rss-e70db2d95398------2)
 <!-- BLOG-POST-LIST:END -->
 
 
