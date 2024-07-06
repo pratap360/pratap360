@@ -8,8 +8,11 @@ Frontend Developer | Graphic Designer | Blogger
 * 🖥️  See my Blog Website realted to programming stuffs at [Parui Dev](http://www.paruidev.com)
 * ✉️  You can contact me at [contact@paruidev.com](mailto:contact@paruidev.com)
 * 🚀  I'm currently working my some personal projects , my portfolio as well as,
-      I'm Open for paticipated into Various Hackathon [Mumbai Hacks 2023(previous hackathon)](https://mumbaihacks.com/)
+* ✨  Working on my An open-source web app for food lovers, as I'm Currently paricipated in [n&w s5](https://buildspace.so/nw)
+  & house is [erevald](https://erevald.com/) Stay Tune, Will Up Date Soon.
 * 🧠  I'm just started with hands on Angular and practicing Appwrite along with React, Next Js & Supabase 😉✌
+   <!--   I'm Open for paticipated into Various Hackathon [Mumbai Hacks 2023(previous hackathon)](https://mumbaihacks.com/)-->
+
 
 <!--🚀  I'm currently working on [My Toolkits](http://pratap360.github.io/My_toolskit_PWA/)-->
 
