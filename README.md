@@ -5,7 +5,7 @@ Frontend Developer | Graphic Designer | Blogger
 -----------------------------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my Blog Website realted to programming stuffs at [Mr Parui Web](http://www.mrparuiweb.live)
+* 🖥️  See my Blog Website realted to programming stuffs at [Parui Dev](http://www.paruidev.com)
 * ✉️  You can contact me at [ParuiWebD@outlook.com](mailto:paruiwebd@outlook.com)
 * 🚀  I'm currently working my some personal projects , my portfolio as well as,
       I'm Open for paticipated into Various Hackathon [Mumbai Hacks 2023(previous hackathon)](https://mumbaihacks.com/)
