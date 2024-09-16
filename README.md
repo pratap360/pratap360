@@ -1,18 +1,18 @@
 🙏 Namaskar 🙏! My self Pratap Parui
 ====================================================================================================================================
 
-Frontend Developer | Graphic Designer | Blogger
+Frontend Developer | UI-UX | Blogger
 -----------------------------------------------
 
 * 🌍  I'm based in India
 * 🖥️  See my Blog Website realted to programming stuffs at [Parui Dev](http://www.paruidev.com)
 * ✉️  You can contact me at [contact@paruidev.com](mailto:contact@paruidev.com)
 * 🚀  I'm currently working my some personal projects , my portfolio as well as,
-* ✨  Working on my An open-source web app for food lovers, as I'm Currently paricipated in [n&w s5](https://buildspace.so/nw)
-  & house is [erevald](https://erevald.com/) Stay Tune, Will Up Date Soon.
-* 🧠  I'm just started with hands on Angular and practicing Appwrite along with React, Next Js & Supabase 😉✌
+* ✨  Working on my An open-source web app for food lovers, using Angular Material and appwrite Stay Tune, Will Up Date Soon. also you want to join the journey with me just [check this repo](https://github.com/pratap360/yummunity)
+* 🧠  I'm just started with hands on Angular and practicing Appwrite along with React, Next Js & Supabase 😉✌ 
    <!--   I'm Open for paticipated into Various Hackathon [Mumbai Hacks 2023(previous hackathon)](https://mumbaihacks.com/)-->
-
+ <!--Working on my An open-source web app for food lovers, as I'm Currently paricipated in [n&w s5](https://buildspace.so/nw)
+  & house is [erevald](https://erevald.com/) Stay Tune, Will Up Date Soon.-->
 
 <!--🚀  I'm currently working on [My Toolkits](http://pratap360.github.io/My_toolskit_PWA/)-->
 
