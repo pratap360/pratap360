@@ -39,8 +39,6 @@ Frontend Developer | UI-UX | Blogger
 </p>
 
 <!-- ![An image of @pratap360's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratap360)](https://holopin.io/@pratap360)-->
-<!-- <a href="https://app.daily.dev/paruidev"><img src="./devcard.png" width="652" alt="Pratap Parui's Dev Card"/></a>--> 
-<a href="https://app.daily.dev/paruidev"><img src="https://api.daily.dev/devcards/v2/0TFbWJjSOcHDGqaxvPOjE.png?type=wide&r=4xv" width="652" alt="Pratap Parui's Dev Card"/></a>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -59,6 +57,10 @@ Frontend Developer | UI-UX | Blogger
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### Daily Dev Status
+ <a href="https://app.daily.dev/paruidev"><img src="./devcard.png?type=wide&r=4xv" width="300" alt="Pratap Parui's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/paruidev"><img src="https://api.daily.dev/devcards/v2/0TFbWJjSOcHDGqaxvPOjE.png?type=wide&r=4xv" width="652" alt="Pratap Parui's Dev Card"/></a>--> 
 
 ## 💰 If It Helps You than help me to buy me a coffee  😉
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrparuiweb) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pratapparui) 
