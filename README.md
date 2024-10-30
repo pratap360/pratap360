@@ -39,8 +39,8 @@ Frontend Developer | UI-UX | Blogger
 </p>
 
 <!-- ![An image of @pratap360's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratap360)](https://holopin.io/@pratap360)-->
-<a href="https://app.daily.dev/paruidev"><img src="./devcard.png" width="652" alt="Pratap Parui's Dev Card"/></a>
-
+<!-- <a href="https://app.daily.dev/paruidev"><img src="./devcard.png" width="652" alt="Pratap Parui's Dev Card"/></a>--> 
+<a href="https://app.daily.dev/paruidev"><img src="https://api.daily.dev/devcards/v2/0TFbWJjSOcHDGqaxvPOjE.png?type=wide&r=4xv" width="652" alt="Pratap Parui's Dev Card"/></a>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
