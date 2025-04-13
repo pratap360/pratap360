@@ -13,10 +13,10 @@ Frontend Developer | UI-UX | Blogger
    <!--   I'm Open for paticipated into Various Hackathon [Mumbai Hacks 2023(previous hackathon)](https://mumbaihacks.com/)-->
  <!--Working on my An open-source web app for food lovers, as I'm Currently paricipated in [n&w s5](https://buildspace.so/nw)
   & house is [erevald](https://erevald.com/) Stay Tune, Will Up Date Soon.-->
+![](https://komarev.com/ghpvc/?username=pratap360&style=for-the-badge&color=blueviolet)
+[![biolink](https://img.shields.io/badge/Pratap_Parui.bio.link-222?style=for-the-badge&logo=biolink&logoColor=white)](https://pratapparui.bio.link/)
 
-<!--🚀  I'm currently working on [My Toolkits](http://pratap360.github.io/My_toolskit_PWA/)-->
 
-<a href="https://pratapparui.bio.link/"><img src="https://img.shields.io/badge/SOCIAL-Pratap Parui.bio.link-lightgrey/?style=for-the-badge&color=0891b2"></a> &nbsp; &nbsp;[![](https://visitcount.itsvg.in/api?id=pratap360&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
