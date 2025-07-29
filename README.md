@@ -18,13 +18,13 @@ _**Frontend Developer** · UI/UX Designer · Tech Writer_
 - **[My Toolkits](https://github.com/pratap360/MyToolKits)**: It is a Progressive web app made with Materialize css , it is all about different tools to use via offline mode
 ---
 
-### ✍️ Blog & Writing  
+### ✍️ Blog Writing  
 
-> Scripts fetch my latest posts automatically from my blog (Powered by GitHub Actions)
+> Scripts fetch my latest posts automatically from various blogs (Powered by GitHub Actions)
 <!-- BLOG-POST-LIST:START -->
 - [Introducing Yummunity: An Open-Source Recipe Discovery Social Platform](https://dev.to/pratap360/introducing-yummunity-an-open-source-recipe-discovery-social-platform-4fgg)
 - [From Idea to Launch: How I Built Yummunity — An Open-Source Recipe Discovery Social Platform.](https://medium.com/@Parui_Pratap/from-idea-to-launch-how-i-built-yummunity-a-social-platform-6456af9ee154?source=rss-e70db2d95398------2)
-- [From Idea to Launch: How I Built Yummunity a social platform](https://www.paruidev.com/2025/04/building-food-platform-yummunity-as- a-side-project.html)
+- [From Idea to Launch: How I Built Yummunity a social platform](https://www.paruidev.com/2025/04/building-food-platform-yummunity-as-%20a-side-project.html)
 - [Say Goodbye to Unused node_modules with NPKill - paruidev](https://www.paruidev.com/2025/02/intro-to-npkill-remove-unused-node-modules.html)
 - [6 Amazing Websites For Developers That You Don’t Know Till Yet.](https://medium.com/@Parui_Pratap/6-amazing-websites-for-developers-that-you-dont-know-till-yet-9162b7afc4af?source=rss-e70db2d95398------2)
 <!-- BLOG-POST-LIST:END -->
