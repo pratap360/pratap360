@@ -22,11 +22,11 @@ _**Frontend Developer** · UI/UX Designer · Tech Writer_
 
 > Scripts fetch my latest posts automatically from my blog (Powered by GitHub Actions)
 <!-- BLOG-POST-LIST:START -->
-- [6 Coding Habits to Adopt in 2024 ](https://dev.to/pratap360/6-coding-habits-to-adopt-in-2024-lcc)
-- [Important coding Habits you must to Change it in 2024](https://medium.com/@Parui_Pratap/6-coding-habits-to-adopt-in-2024-d76212f1873e)
-- [Top 10 Awesome Frontend Developer Tools that You’re missing out](https://medium.com/@Parui_Pratap/top-10-awesome-frontend-developer-tools-that-youre-missing-out-e328865c7f5a?source=rss-e70db2d95398------2)
-- [Top 8 Browsers Extensions That Will 4x Your Productivity](https://medium.com/@Parui_Pratap/8-chrome-extensions-that-will-4x-your-productivity-10d43d59859d?source=rss-e70db2d95398------2)
-- [Fit Streak | A Case Study On Fitness App](https://medium.com/@Parui_Pratap/fit-streak-a-case-study-on-fitness-app-756ade5e45d0?source=rss-e70db2d95398------2)
+- [Introducing Yummunity: An Open-Source Recipe Discovery Social Platform](https://dev.to/pratap360/introducing-yummunity-an-open-source-recipe-discovery-social-platform-4fgg)
+- [From Idea to Launch: How I Built Yummunity — An Open-Source Recipe Discovery Social Platform.](https://medium.com/@Parui_Pratap/from-idea-to-launch-how-i-built-yummunity-a-social-platform-6456af9ee154?source=rss-e70db2d95398------2)
+- [6 Amazing Websites For Developers That You Don’t Know Till Yet.](https://medium.com/@Parui_Pratap/6-amazing-websites-for-developers-that-you-dont-know-till-yet-9162b7afc4af?source=rss-e70db2d95398------2)
+- [Unleashing Culinary Creativity: Building a “Foodie Remix” with Gemini AI](https://medium.com/@Parui_Pratap/unleashing-culinary-creativity-building-a-foodie-remix-with-gemini-ai-ed248fc11835?source=rss-e70db2d95398------2)
+- [Git Commands You Need for Hacktoberfest 2024 - Git cheat sheet](https://dev.to/pratap360/git-commands-you-need-for-hacktoberfest-2024-git-cheat-sheet-1ge5)
 <!-- BLOG-POST-LIST:END -->
 ---
 
