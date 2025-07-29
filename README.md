@@ -11,11 +11,11 @@ _**Frontend Developer** · UI/UX Designer · Tech Writer_
 - 📧 Feel free to [email me](mailto:contact@paruidev.com) or reach out at: contact(at)paruidev(dot)com
 
 ### 🚧 Noteworthy Projects  
-- **FocusDeck** : FocusDeck is a minimal Pomodoro timer and daily task manager designed to help you stay productive and focused
-- **Yummunity** : It is a dynamic and engaging food-based social media platform that allows users to share recipes, explore food content, and interact with a vibrant community of food enthusiasts.
-- **DataLens** : It is a social media analytics tool that provides actionable insights into engagement metrics
-- **Foodie Remix** : This platform leverages the power of AI to generate unique and exciting food combinations, fostering a vibrant community of food enthusiasts.
-- **My Toolkits**: It is a Progressive web app made with Materialize css , it is all about different tools to use via offline mode
+- **[FocusDeck](https://github.com/pratap360/focus-desk)** : FocusDeck is a minimal Pomodoro timer and daily task manager designed to help you stay productive and focused
+- **[Yummunity](https://github.com/pratap360/yummunity)** : It is a dynamic and engaging food-based social media platform that allows users to share recipes, explore food content, and interact with a vibrant community of food enthusiasts.
+- **[DataLens](https://github.com/pratap360/DataLens)** : It is a social media analytics tool that provides actionable insights into engagement metrics
+- **[Foodie Remix](https://github.com/pratap360/foodie-remix)** : This platform leverages the power of AI to generate unique and exciting food combinations, fostering a vibrant community of food enthusiasts.
+- **[My Toolkits](https://github.com/pratap360/MyToolKits)**: It is a Progressive web app made with Materialize css , it is all about different tools to use via offline mode
 ---
 
 ### ✍️ Blog & Writing  
@@ -34,7 +34,7 @@ _**Frontend Developer** · UI/UX Designer · Tech Writer_
 
 | **Frontend**              | **Backend**                 | **Database**                 | **Cloud/DevOps**               |
 |---------------------------|-----------------------------|------------------------------|--------------------------------|
-|<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,html,css,javascript,typescript,materialui,bootstrap,tailwindcss&theme=dark&perline=3" alt="Frontend"/></a>    | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,npm,python,django,flask&theme=dark&perline=3" alt="Backend" /></a>      | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,supabase,appwrite,sqlite&theme=dark&perline=3" alt="databases" /></a>   | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp,azure,aws&theme=dark&perline=3" alt="clouds & devops" /></a>      |
+|<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,html,css,javascript,typescript,materialui,bootstrap,tailwindcss&theme=dark&perline=3" alt="Frontend"/></a>    | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,expressjs,reactivex,python,django,flask&theme=dark&perline=3" alt="Backend" /></a>      | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,supabase,appwrite,sqlite&theme=dark&perline=3" alt="databases" /></a>   | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp,azure,aws&theme=dark&perline=3" alt="clouds & devops" /></a>      |
 
 
 | **Design Tools**          | **CI/CD & Tools**            | **AI/ML Tools**          | **Utility**                  |
