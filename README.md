@@ -7,8 +7,8 @@ _**Frontend Developer** · UI/UX Designer · Tech Writer_
 - Tech writer with articles on coding habits, tools, productivity do check them out. ☕ Blog: [Parui Dev](http://www.paruidev.com)
 
 ### 📬 Contact & Opportunities
-- I'm actively looking for **Frontend Developer** roles - open to **Onsite**, **Hybrid**, or **Remote** opportunities.
-- 📧 Feel free to [email me](mailto:contact@paruidev.com) or reach out at: contact(at)paruidev(dot)com
+<!--- I'm actively looking for **Frontend Developer** roles - open to **Onsite**, **Hybrid**, or **Remote** opportunities.-->
+- 📧 For any Query or Collobration, Feel free to [email me](mailto:contact@paruidev.com) or reach out at: contact(at)paruidev(dot)com
 
 ### 🚧 Noteworthy Projects  
 - **[FocusDeck](https://github.com/pratap360/focus-desk)** : FocusDeck is a minimal Pomodoro timer and daily task manager designed to help you stay productive and focused
