@@ -22,11 +22,11 @@ _**Frontend Developer** · UI/UX Designer · Tech Writer_
 
 > Scripts fetch my latest posts automatically from various blogs (Powered by GitHub Actions)
 <!-- BLOG-POST-LIST:START -->
+- [Why Semicolon is Used in Programming? The Surprising Truth Every Coder Should Know ! | Parui Dev](https://www.paruidev.com/2026/04/why-semicolon-is-used-in-programming.html)
 - [10 Underrated Websites Every Developer Should Bookmark](https://medium.com/@Parui_Pratap/10-underrated-websites-every-developer-should-bookmark-1d7f11030deb?source=rss-e70db2d95398------2)
 - [How Intlayer helps to speed up i18n](https://dev.to/pratap360/how-intlayer-helps-to-speed-up-i18n-4mh2)
 - [Build a Multilingual Blog Viewer in React using Intlayer](https://medium.com/@Parui_Pratap/build-a-multilingual-blog-viewer-in-react-using-intlayer-ec1c7ac47653?source=rss-e70db2d95398------2)
 - [Build a Multilingual Blog Viewer in React using Intlayer | How Intlayer helps to speed up i18n](https://www.paruidev.com/2025/08/how-intlayer-helps-to-speed-up-i18n.html)
-- [Introducing Yummunity: An Open-Source Recipe Discovery Social Platform](https://dev.to/pratap360/introducing-yummunity-an-open-source-recipe-discovery-social-platform-4fgg)
 <!-- BLOG-POST-LIST:END -->
 ---
 
