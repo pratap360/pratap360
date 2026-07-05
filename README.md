@@ -45,8 +45,17 @@ _**Frontend Developer** · UI/UX Designer · Tech Writer_
 
 
 ### 📈 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=pratap360&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=pratap360&theme=github_dark_dimmed&hide_border=true)
+<div align="center">
+  <a href="https://commit-history.com/pratap360">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/pratap360?theme=dark" />
+      <img alt="pratap360's commit history" src="https://commit-history.com/embed/pratap360" />
+    </picture>
+  </a>
+</div>
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=pratap360&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)-->
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=pratap360&theme=github_dark_dimmed&hide_border=true)-->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratap360&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=pratap360&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)
@@ -88,23 +97,6 @@ _**Frontend Developer** · UI/UX Designer · Tech Writer_
 
 ---
 [![An image of @pratap360's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratap360)](https://holopin.io/@pratap360)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
